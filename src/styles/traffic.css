@@ -1,0 +1,36 @@
+.container{
+    background: black;
+    width: 110px;
+
+}
+.botones{
+    display:flex;
+    flex-direction: column;
+    width:90px;
+    text-align: center;
+}
+
+.red{
+    background: red;
+    min-height: 65px;
+    min-width: 50px;
+    border-radius: 50%;
+    padding: 3px;
+    margin:5px;
+}
+.yellow{
+    background: yellow;
+    min-height: 65px;
+    min-width: 50px;
+    border-radius: 50%;
+    padding: 3px;
+    margin:5px;
+}
+.green{
+    background: green;
+    min-height: 65px;
+    min-width: 50px;
+    border-radius: 50%;
+    padding: 3px;
+    margin:5px;
+}
